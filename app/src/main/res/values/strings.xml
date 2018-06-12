@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioStudentApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">PLAY</string>
+    <string name="arhiva">Arhiva</string>
+    <string name="refresh">Osvježi</string>
+    <string name="program">Program</string>
+    <string name="loading">... loading ...</string>
+    <string name="player">Player</string>
+</resources>
